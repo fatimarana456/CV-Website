@@ -16,7 +16,7 @@ This website presents my personal CV including:
 - Flexbox
 
 ## 🌐 Live Demo
-(After deployment, paste your link here)
+https://cv-eight-drab.vercel.app/
 
 
 ## 👩‍🎓 Student Details
